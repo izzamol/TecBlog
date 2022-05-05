@@ -19,9 +19,9 @@ h1{
     color: #fdcb05;
     margin-bottom: 0;
 }
-h3{ padding: 15px;
-    color: #595959;
-    font-size: 16px;
+h3{ padding: 10px 0 10px 10px;
+    color: #595959c0;
+    font-size: 18px;
     background-color: #c9c8c8;
     margin-top: 10px;
     margin-bottom: 10px;
@@ -121,7 +121,7 @@ h3{ padding: 15px;
     width: 640px;
     float: left;
     padding: 10px;
-    margin: 0;
+    margin: 0 0 10px 0;
 
 }
 #menu-lateral{
@@ -195,4 +195,12 @@ p{
     color: #ebca0f;
 
 }
+.t{
+    margin: 0 5px 10px;
+}
+#ml a{
+    color: #ebca0f;
+    text-decoration: none;
+    margin: 10px;
 
+}
